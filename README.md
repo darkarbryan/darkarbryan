@@ -1,18 +1,39 @@
-## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
-### General Info
+### Conoceme
 ***
-Programando un hoy para tener un mañana.
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
-## Technologies
+Hola, un placer conocerte.
+Me llamo Bryan Valderrama y soy un desarrollador.
+
+¿Que tipo de desarrollador soy?
+Pues soy un...
+* Desarrollador web
+* Desarrollador movil
+* Desarrolador desktop
+
+¿Como me considero a nivel laboral?
+Como una persona...
+* Autodidacta
+* Trabajar en equipo
+* Apoyar a los demas dentro de lo que se pueda
+* Paciente
+* Capacidad de analisis y abstraccion de una situacion problema y/o oportunidad
+ 
+ Espero que podamos conozcarnos mejor.
+ 
+## Lenguajes y tecnoloogias que manejo
 ***
-A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+Poseo conocimientos en los siguientes lenguajes de programacion y tecnologias:
+* [Framework name] Ionic: Version 7
+* [Framework name] Angular: Version 8 - Version 11
+* [Language name] Java: Version 8
+* [Language name] C++
+* [Language name] C#
+* [Language name] PHP: Version 6 - Version 8
+* [Language name] Python (FastAPI)
+* [Language name] Python: Version 3
+* [Techonology name] AWS - Lambda
+* [Techonology name] AWS - CloudWatch
+* [Techonology name] Oracle SQL
+* [Techonology name] Sql Server
+* [Techonology name] MySql
+* [Techonology name] MongoDB 
 ***
