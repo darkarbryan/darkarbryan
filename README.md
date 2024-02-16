@@ -1,7 +1,7 @@
 ### Conoceme
 ***
 Hola, un placer conocerte.
-Me llamo Bryan Valderrama y soy un desarrollador.
+Me llamo Bryan Valderrama, ingeniero de sistemas con enfoque al desarrollo de aplicaciones.
 
 ![image](https://user-images.githubusercontent.com/42938974/236643720-0e2a861e-5ccf-4d0e-8972-b37a0310dc69.png)
 
